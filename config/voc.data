@@ -1,0 +1,5 @@
+class = 2
+train = /home/zhijue/Desktop/Yufeng/Pytorch-YOLO-text/VOCdevkit/VOC2007/train.txt
+valid = /home/zhijue/Desktop/Yufeng/Pytorch-YOLO-text/VOCdevkit/VOC2007/test.txt
+names = /home/zhijue/Desktop/Yufeng/Pytorch-YOLO-text/VOCdevkit/VOC2007/voc.name
+backup = backup
